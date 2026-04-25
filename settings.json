@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Classonly.aternos.me",
-    "port": 52048,
+    "ip": "dark_knight677.aternos.me:28017",
+    "port": 28017,
     "version": "1.21.10",
     "try-creative": false
   },
